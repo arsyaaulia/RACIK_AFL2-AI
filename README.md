@@ -6,7 +6,7 @@ kedaluwarsanya, lalu menentukan bumbu mana yang harus dipakai lebih dulu
 menggunakan algoritma **Greedy Best-First Search (GBFS)**, dengan sisa hari
 sebelum kedaluwarsa sebagai nilai heuristik.
 
-Anggota
+**Anggota Kelompok**
 - Arsya Aulia Amira     (0806022410012)
 - Cherryl Callista	    (0806022410023)
 - Dhiva Kesuma Pertiwi	(0806022410025)
@@ -54,3 +54,6 @@ Program ini memakai `ipywidgets`, sehingga **harus dijalankan sebagai notebook (
 
 - Disarankan menggunakan Light Mode di VS Code (*Preferences: Color Theme → Light Modern*) untuk tampilan yangl ebih baik.
 - Jika widget tidak muncul, pastikan `ipywidgets` terpasang di environment yang sama dengan kernel yang dipilih.
+
+
+### Laporan
