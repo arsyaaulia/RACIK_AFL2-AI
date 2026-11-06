@@ -43,7 +43,7 @@ Program ini memakai `ipywidgets`, sehingga **harus dijalankan sebagai notebook (
 6. **Buka file `racik.ipynb`**, klik **Select Kernel** di kanan atas, lalu pilih Python environment tempat library tadi dipasang.
 7. **Jalankan cell** dengan Shift+Enter atau tombol ▶. Dashboard Racik akan muncul di bawah cell.
 
-## Catatan
+### Note
 
 - Disarankan menggunakan Light Mode di VS Code (*Preferences: Color Theme → Light Modern*) untuk tampilan yangl ebih baik.
 - Jika widget tidak muncul, pastikan `ipywidgets` terpasang di environment yang sama dengan kernel yang dipilih.
