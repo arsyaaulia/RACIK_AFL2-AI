@@ -6,6 +6,13 @@ kedaluwarsanya, lalu menentukan bumbu mana yang harus dipakai lebih dulu
 menggunakan algoritma **Greedy Best-First Search (GBFS)**, dengan sisa hari
 sebelum kedaluwarsa sebagai nilai heuristik.
 
+Anggota
+- Arsya Aulia Amira     (0806022410012)
+- Cherryl Callista	    (0806022410023)
+- Dhiva Kesuma Pertiwi	(0806022410025)
+- St Mutmainnah         (0806022410027)
+
+
 ## Library yang Digunakan
 
 **Library standar Python** (sudah bawaan, tidak perlu diinstall):
